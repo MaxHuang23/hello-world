@@ -14,3 +14,7 @@ Games (mostly for movement mechanics):
 Applications (visual appeal):
 - Webpages
 - Spotify
+
+Social media (direct messages and posting online)"
+- Instagram
+- Discord
